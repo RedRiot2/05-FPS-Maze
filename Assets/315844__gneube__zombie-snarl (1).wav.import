@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/315844__gneube__zombie-snarl (1).wav-f3770ceb55a0a2b94e4f66d5cad86ec4.sample"
+
+[deps]
+
+source_file="res://Assets/315844__gneube__zombie-snarl (1).wav"
+dest_files=[ "res://.import/315844__gneube__zombie-snarl (1).wav-f3770ceb55a0a2b94e4f66d5cad86ec4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
